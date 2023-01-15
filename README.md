@@ -1,1 +1,1 @@
-A C-subset compiler (exclusion of typedef, structs, and pointers) built with Yacc, Flex, and LLVM. Capable of compiling conditional logic, arithmetic, and looping with string, integer, and double types and variables. 
+A C-subset compiler (exclusion of typedef, structs, and pointers) built with Yacc, Flex, and LLVM. Capable of compiling conditional logic, arithmetic, function declaration, function calling, variable declaration (with symbol table) and looping. Types: string, integer, and double
